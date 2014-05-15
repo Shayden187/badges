@@ -1,0 +1,4 @@
+badges
+======
+
+Sample mozilla badge
