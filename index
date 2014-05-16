@@ -7,11 +7,14 @@
 </style>
 </head>
 <body>
-<div id="header"
+<div id="header">
+
 </div>
-<div id="textbox">
+<div id="mid">
+
 </div>
 <div id="footer">
+
 </div>
 </body>
 </html>
