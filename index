@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Example badge</title>
+<style>
+</style>
+</head>
+<body>
+<div id="header"
+</div>
+<div id="textbox">
+</div>
+<div id="footer">
+</div>
+</body>
+</html>
